@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techieshrinktechie
 - 👀 I’m interested in learning more about coding
-- 🌱 I’m currently learning responsive web design
+- 🌱 I’m currently learning R
 
 
 <!---
